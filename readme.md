@@ -43,6 +43,9 @@ Below are a full list of features:
 |      7.x      |          1.x        |
 |      8.x      |          2.x        |
 |      9.x      |          2.x        |
+|      11.x     |         11.x        |
+|      12.x     |         12.x        |
+|      13.x     |         13.x        |
 
 ## Installation
 
